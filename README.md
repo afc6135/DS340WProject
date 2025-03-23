@@ -12,4 +12,5 @@ This was completed February 24th. We now have access to the first of many datase
 March 23rd: 
 The third implimentation was the readdition of the model items and the loss calcuation specifically. We also looked at adding RMSE calculations to the code to see how it compared and fared to Gencast and Pangu Weather(other ML models).
 These changes were made between March 16th to March 23rd. 
-These changes also came with minor changes to the data and 
+These changes also came with minor changes to the data and testing with different lead times to see what we can do to improve our lead times 
+RMSE, Loss, and some loss changes were made to improve the loss. 
