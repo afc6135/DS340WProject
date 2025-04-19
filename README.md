@@ -1,6 +1,20 @@
 # DS340WProject
 The code for the DS340W GraphCast Code. ALL CHANGES ARE DETAILED BELOW WITH DATES
 
+INSTRUCTIONS!!:
+1. Download the notebook: Group48GraphCastFinal.ipynb.
+2. Download the dataset: WeatherDataP.
+3. Upload both to Google Colab.
+4. Make sure Colab is set to Python 3 with the base CPU runtime.
+5. Upload the weather dataset into the Colab file system (using the file upload or files.upload()).
+6. Connect and run all cells without interacting with any of the dropdowns or widgets (since they’re preconfigured).
+7. Ignore high RAM usage alerts — the code has been optimized to safely run within Colab’s free tier limits.
+8. Look for the RMSE and Loss metrics at the bottom of the notebook in the training section — the expected values will be written in the comments or markdown.
+9. If modifying code, you must restart the Colab runtime and run all cells from the top again to ensure consistent results.
+
+April 19th:
+Added comments to the code and fixed the ReadMe for the instructors and TA
+
 2 Months Ago: 
 The first implimentation was just the code we submitted from the paper paper, something we wanted to work with.
 This was implimented a few months and had slight changes to support the memory limitations of google colab
