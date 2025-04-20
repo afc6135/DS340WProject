@@ -10,7 +10,7 @@ INSTRUCTIONS!!:
 7. Connect and run all cells without interacting with any of the dropdowns or widgets (since they’re preconfigured).
 8. Ignore high RAM usage alerts — the code has been optimized to safely run within Colab’s free tier limits.
 9. Look for the RMSE and Loss metrics at the bottom of the notebook in the training section — the expected values will be written in the comments or markdown.
-10. If modifying code, you must restart the Colab runtime and run all cells from the top again to ensure consistent results.
+10. If modifying code(Preferably not), you must restart the Colab runtime and run all cells from the top again to ensure consistent results.
 
 April 19th:
 Added comments to the code and fixed the ReadMe for the instructors and TA
