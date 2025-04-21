@@ -4,7 +4,7 @@ The code for the DS340W GraphCast Code. ALL CHANGES ARE DETAILED BELOW WITH DATE
 INSTRUCTIONS!!:
 1. Download the notebook: Group48graphcastFinal.ipynb.
 2. Download the dataset: WeatherDataP.
-3. Upload both to Google Colab.
+3. Upload both(Python notebook and the csv file) to Google Colab(see step 5 for specific upload instructions for the CSV File)
 4. Make sure Colab is set to Python 3 with the base CPU runtime.
 5. Upload the weather dataset into the Colab file system: (Go into the file tab on the left hand side, click file upload and upload the WeatherDataP.csv file)
 7. Connect and run all cells without interacting with any of the dropdowns or widgets (since they’re preconfigured). Do this by going to runtime on the top and clicking run all.
