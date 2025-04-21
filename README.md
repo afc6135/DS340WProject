@@ -7,7 +7,7 @@ INSTRUCTIONS!!:
 3. Upload both to Google Colab.
 4. Make sure Colab is set to Python 3 with the base CPU runtime.
 5. Upload the weather dataset into the Colab file system: (Go into the file tab on the left hand side, click file upload and upload the WeatherDataP.csv file)
-7. Connect and run all cells without interacting with any of the dropdowns or widgets (since they’re preconfigured).
+7. Connect and run all cells without interacting with any of the dropdowns or widgets (since they’re preconfigured). Do this by going to runtime on the top and clicking run all.
 8. Ignore high RAM usage alerts — the code has been optimized to safely run within Colab’s free tier limits.
 9. Look for the RMSE and Loss metrics at the bottom of the notebook in the training section — the expected values will be written in the comments or markdown.
 10. If modifying code(Preferably not), you must restart the Colab runtime and run all cells from the top again to ensure consistent results.
