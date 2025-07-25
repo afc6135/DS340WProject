@@ -1,7 +1,7 @@
 # DS340WProject
 The code for the DS340W GraphCast Code. ALL CHANGES ARE DETAILED BELOW WITH DATES
 
-INSTRUCTIONS!!:
+INSTRUCTIONS!!!:
 1. Download the notebook: Group48graphcastFinal.ipynb.
 2. Download the dataset: WeatherDataP.
 3. Upload both(Python notebook and the csv file) to Google Colab(see step 5 for specific upload instructions for the CSV File)
